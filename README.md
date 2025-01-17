@@ -1,0 +1,3 @@
+- Create a virtual environment: `python3 -m venv fast-pki-venv`
+- Activate the virtual environment: `source fast-pki-venv/bin/activate`
+- Install the required packages: `pip install -r requirements.txt`
